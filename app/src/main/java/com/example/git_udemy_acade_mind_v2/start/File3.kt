@@ -5,4 +5,5 @@ class File3 {
     //! branch1
     //! branch1 c2
     //! branch1 c3
+    //! branch1 c4
 }
